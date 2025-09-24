@@ -34,7 +34,7 @@ const Hero = ({ logoClicked }) => {
           <div className="space-y-8 animate-fade-in">
             <div className="space-y-4">
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
-                Discover Amazing{' '}
+              <span className="text-orange-500">Discover Amazing</span>{' '}
                 <span className="gradient-text">Destinations</span>
               </h1>
               <p className="text-xl text-yellow-600 dark:text-green-300 leading-relaxed">
