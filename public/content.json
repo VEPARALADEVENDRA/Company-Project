@@ -1,0 +1,38 @@
+{
+  "testimonials": [
+    {
+      "name": "Veparala Devendra",
+      "role": "Travel Blogger",
+      "company": "Wanderlust Adventures",
+      "image": "/Devendraimage.jpeg",
+      "content": "Wanderlust Travel made my dream trip to Japan absolutely perfect! The local guides were incredible and the experiences they curated were unforgettable. I can't wait to book my next adventure with them.",
+      "rating": 5
+    },
+    {
+      "name": "Michael",
+      "role": "Photographer",
+      "company": "Global Shots",
+      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=1170&q=80",
+      "content": "The photography tour in Iceland was beyond amazing! They took us to hidden gems that only locals know about. The 24/7 support was fantastic, and every detail was perfectly planned.",
+      "rating": 5
+    },
+    {
+      "name": "Sophia Patel",
+      "role": "Backpacker",
+      "company": "Nomad Trails",
+      "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=600&q=80",
+      "content": "Booked a last-minute Southeast Asia loop—everything was smooth, safe, and insanely fun. The insider tips saved me time and money!",
+      "rating": 5
+    },
+    {
+      "name": "Liam Chen",
+      "role": "Tech Professional",
+      "company": "Remote Explorer",
+      "image": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?auto=format&fit=crop&w=600&q=80",
+      "content": "Worked remotely from the Alps for a month. Fantastic stays, reliable Wi‑Fi, and unforgettable weekend adventures. Perfect balance of work and play.",
+      "rating": 5
+    }
+  ]
+}
+
+
