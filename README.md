@@ -4,7 +4,7 @@ A beautiful, responsive landing page built with React and Tailwind CSS. This pro
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-demo-link.com) *(Update with your deployment URL)*
+https://company-project-9irrugcna-veparala-devendras-projects.vercel.app/ *(Update with your deployment URL)*
 
 ## 📋 Sections Implemented
 
