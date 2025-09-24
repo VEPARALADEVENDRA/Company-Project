@@ -241,6 +241,11 @@ For questions or support, please:
 - Open an issue on GitHub
 - Contact: hello@modernland.com
 - Documentation: [Link to docs]
+- 
+
+npm install
+
+npm run dev
 
 ---
 
